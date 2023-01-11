@@ -12,7 +12,7 @@
     "@gatsbystorefront/gatsby-theme-storefront-shopify": "^2.1.1",
     "dotenv": "^8.2.0",
     "gatsby": "^2.13.38",
-    "gatsby-transformer-remark": "^2.7.3",
+    "gatsby-transformer-remark": "^5.25.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
   },
