@@ -9,7 +9,7 @@
     "url": "https://gatsbystorefront.com/"
   },
   "dependencies": {
-    "@gatsbystorefront/gatsby-theme-storefront-shopify": "^2.1.1",
+    "@gatsbystorefront/gatsby-theme-storefront-shopify": "^5.0.0-beta3",
     "dotenv": "^8.2.0",
     "gatsby": "^5.16.1",
     "gatsby-transformer-remark": "^2.7.3",
